@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "daemonUrl": "ws://127.0.0.1:6767/ws",
+  "repository": "jsilhan/copy-trades",
+  "cwd": "/home/azureuser/projects/copy-trades",
+  "mapIssue": 1,
+  "claimOwner": "jsilhan",
+  "provider": "copilot/gpt-5.4",
+  "prefix": "copy-trades",
+  "baseBranch": "main",
+  "maxActiveAgents": 4
+}

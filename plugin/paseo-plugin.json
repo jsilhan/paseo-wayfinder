@@ -1,0 +1,5 @@
+{
+  "id": "paseo-wayfinder",
+  "description": "Dependency-aware GitHub issue sessions with durable bindings and five-minute polling",
+  "requirements": { "paseo": ">=0.10.0 <0.11.0" }
+}
